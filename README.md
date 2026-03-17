@@ -9,7 +9,9 @@ This repository contains a manual testing project performed on the NopCommerce d
 ## Application Under Test
 
 NopCommerce Demo Website
+
 Type: E-commerce Web Application
+
 Testing Type: Manual Testing
 
 ---
